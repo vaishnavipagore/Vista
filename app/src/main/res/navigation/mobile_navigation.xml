@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_home"-->
+<!--        android:name="com.example.vista1.ui.home.Home"-->
+<!--        android:label="@string/title_home"-->
+
+<!--        tools:layout="@layout/fragment_home" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_premium"-->
+<!--        android:name="com.example.vista1.ui.premium.premium"-->
+<!--        android:label="Premium"-->
+<!--        tools:layout="@layout/fragment_premium" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_inventory"-->
+<!--        android:name="com.example.vista1.ui.inventory.Inventory"-->
+<!--        android:label="Inventory"-->
+<!--        tools:layout="@layout/fragment_inventory" />-->
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_tickets"-->
+<!--        android:name="com.example.vista1.ui.tickets.Tickets"-->
+<!--        android:label="Tickets"-->
+<!--        tools:layout="@layout/fragment_tickets" />-->
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_history"-->
+<!--        android:name="com.example.vista1.ui.history.History"-->
+<!--        android:label="History"-->
+<!--        tools:layout="@layout/fragment_history" />-->
+</navigation>

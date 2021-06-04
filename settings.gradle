@@ -1,0 +1,2 @@
+rootProject.name = "Vista1"
+include ':app'
